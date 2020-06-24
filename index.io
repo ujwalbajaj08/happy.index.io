@@ -44,16 +44,16 @@ body {
 </div>
 <div class="topnav">
 <ul>
-<li><a href="file:///D:/BlueJ/HTML/outputs/nidhi.html">Home</a></li>
-<li><a href="file:///D:/BlueJ/HTML/outputs/spotlight.html">Spotlight</a></li>
-<li><a href="file:///D:/BlueJ/HTML/outputs/messages.html">Messages</a></li>
+<li><a href="nidhi.html">Home</a></li>
+<li><a href="spotlight.html">Spotlight</a></li>
+<li><a href="messages.html">Messages</a></li>
 </ul>
 </div>
 <div class="container">
 <div class="row">
 <div class="col-md-12">
 <h3>Produced, Designed & Directed by Ujwal Bajaj.<br>Concept by Nidhi Rathi, Advised By Rishi Sarda</h3>
-<video src="Happy\ddmerge.mp4" autoplay controls poster="dod.jpg" height="500px" width="550px"></video>
+<video src="ddmerge.mp4" autoplay controls poster="dod.jpg" height="500px" width="550px"></video>
 </div>
 </div>
 </div>
